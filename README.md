@@ -9,13 +9,18 @@ Skills
 ---
 
 Education
-- B.A. - The Ohio State University
-- B.S. - Miami University
+- B.A. - The Ohio State University - Security and Intelligence
+
+- B.S. - Miami University- Computer Science
 
 ---
 
 Work Experience
+- TJ Maxx
 - United States Coast Guard
+- YMCA
+- Chase
+- G4s
 
 
 <!---
