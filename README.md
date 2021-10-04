@@ -1,4 +1,4 @@
-![proP](uploads/2044a7d4e1de441a9b63c9002c32c6ea/proP.jpg)
+<!--- ![proP](uploads/2044a7d4e1de441a9b63c9002c32c6ea/proP.jpg) --->
 #### **Mark Hudak**
 A mission minded individual who strives towards exemplary completion of objectives and bringing out the best in those he works with.  
 
