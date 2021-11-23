@@ -5,6 +5,7 @@ A mission minded individual who strives towards exemplary completion of objectiv
 Skills
 - C++, C#, Linux, XAML/Xamarin, Java, HTML, CSS
 - Agile Methodology
+- worked with R, SQL, Charmm
 
 ---
 
@@ -14,13 +15,6 @@ Education
 - B.S. - Miami University- Computer Science
 
 ---
-
-Work Experience
-- TJ Maxx
-- United States Coast Guard
-- YMCA
-- Chase
-- G4s
 
 
 <!---
