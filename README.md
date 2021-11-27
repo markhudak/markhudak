@@ -1,18 +1,9 @@
 <!--- ![proP](uploads/2044a7d4e1de441a9b63c9002c32c6ea/proP.jpg) --->
 #### **Mark Hudak**
-A mission minded individual who strives towards exemplary completion of objectives and bringing out the best in those he works with.  
 
-Skills
-- C++, C#, Linux, XAML/Xamarin, Java, HTML, CSS
-- Agile Methodology
-- worked with R, SQL, Charmm
+A collection of some coding projects/assignments I have worked on and completed.
 
----
-
-Education
-- B.A. - The Ohio State University - Security and Intelligence
-
-- B.S. - Miami University- Computer Science
+Update is still in progress, not all work has been transported to this hub as of now. Additional work available upon request.
 
 ---
 
